@@ -1,0 +1,9 @@
+The following data are available:
+- xx external quality factor versus the pin height
+- yy measured S-parameters, E1 Galileo band, inductive coupling, narrowband
+- yy measured S-parameters, E1 Galileo band, capacitive coupling, narrowband
+- yy measured S-parameters, E1 Galileo band, inductive coupling, wideband
+- yy measured S-parameters, E1 Galileo band, capacitive coupling, wideband
+- yy measured S-parameters, Iridium band, inductive coupling
+- yy measured S-parameters, Iridium band, capacitive coupling
+- zz synthesized filter responses
