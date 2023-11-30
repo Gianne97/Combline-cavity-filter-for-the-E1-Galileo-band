@@ -1,9 +1,10 @@
 The following data are available:
-- xx external quality factor versus the pin height
-- yy measured S-parameters, E1 Galileo band, inductive coupling, narrowband
-- yy measured S-parameters, E1 Galileo band, capacitive coupling, narrowband
-- yy measured S-parameters, E1 Galileo band, inductive coupling, wideband
-- yy measured S-parameters, E1 Galileo band, capacitive coupling, wideband
-- yy measured S-parameters, Iridium band, inductive coupling
-- yy measured S-parameters, Iridium band, capacitive coupling
-- zz synthesized filter responses
+- QE_versus_hp --> external quality factor versus the pin height
+- E1GalileoIndMeas.mat --> measured S-parameters, E1 Galileo band, inductive coupling, narrowband
+- E1GalileoCapMeas.mat --> measured S-parameters, E1 Galileo band, capacitive coupling, narrowband
+- E1GalileoIndMeasWB.mat --> measured S-parameters, E1 Galileo band, inductive coupling, wideband
+- E1GalileoCapMeasWB.mat --> measured S-parameters, E1 Galileo band, capacitive coupling, wideband
+- IridiumIndMeas.mat --> measured S-parameters, Iridium band, inductive coupling
+- IridiumCapMeas.mat --> measured S-parameters, Iridium band, capacitive coupling
+- E1GalileoTheory.mat synthesized filter responses, E1 Galileo band
+- IridiumTheory.mat synthesized filter responses, Iridium band
