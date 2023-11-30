@@ -1,0 +1,7 @@
+The CST CAD models are:
+- xx for the complete response of the E1 Galileo band and the inductive coupling
+- xx for the complete response of the E1 Galileo band and the capacitive coupling
+- xx for the complete response of the Iridium band and the inductive coupling
+- xx for the complete response of the Iridium band and the capacitive coupling
+- yy for the external quality factor with inductive coupling at the center frequency of the E1 Galileo band
+- yy for the external quality factor with capacitive coupling at the center frequency of the E1 Galileo band
