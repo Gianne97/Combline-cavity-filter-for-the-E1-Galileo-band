@@ -3,3 +3,5 @@ The CST CAD models are:
 - CSTEndCoupling.cst for the complete response of the filter with the capacitive coupling
 - IndEndCoupling_QE.cst for the external quality factor with inductive coupling
 - CSTEndCoupling_QE.cst for the external quality factor with capacitive coupling
+- IndEndCoupling_QE.m MATLAB script for the MATLAB-CST API
+- CapEndCoupling_QE.m MATLAB script for the MATLAB-CST API
